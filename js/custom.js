@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     document.querySelectorAll('.navbar-brand.js-scroll-trigger').forEach(function(el) {
-        el.innerHTML = '<strong>Sand Tetris</strong>';
+        el.innerHTML = '<strong>Basketball Bros<strong>';
         el.style.visibility = 'visible';
     });
 });
