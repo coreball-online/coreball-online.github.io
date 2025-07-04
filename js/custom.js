@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     document.querySelectorAll('.navbar-brand.js-scroll-trigger').forEach(function(el) {
-        el.innerHTML = '<strong>Basketball Bros<strong>';
+        el.innerHTML = '<strong>Coreball<strong>';
         el.style.visibility = 'visible';
     });
 });
